@@ -1,0 +1,7 @@
+C:\Dev\ColFilterToSQL\ColFilterToSQL\bin\Debug\ColFilterToSQL.exe
+C:\Dev\ColFilterToSQL\ColFilterToSQL\bin\Debug\ColFilterToSQL.pdb
+C:\Dev\ColFilterToSQL\ColFilterToSQL\obj\x86\Debug\ColFilterToSQL.Form1.resources
+C:\Dev\ColFilterToSQL\ColFilterToSQL\obj\x86\Debug\ColFilterToSQL.Properties.Resources.resources
+C:\Dev\ColFilterToSQL\ColFilterToSQL\obj\x86\Debug\ColFilterToSQL.csproj.GenerateResource.Cache
+C:\Dev\ColFilterToSQL\ColFilterToSQL\obj\x86\Debug\ColFilterToSQL.exe
+C:\Dev\ColFilterToSQL\ColFilterToSQL\obj\x86\Debug\ColFilterToSQL.pdb
